@@ -1,9 +1,9 @@
 # DLI-Korean-by-LewisReach
 
-Road map - 
+Road map -
 
 v0.9
-try using pdf editor with anki 
+try using pdf editor with anki
 completely sort 단어
 get audio files in the correct chapter
 
@@ -18,7 +18,8 @@ completely fleshed out beginners guide
 extensions package
 memonics and related words with everything
 hanja with everything
-reintegrate combined hanja deck 
+reintegrate combined hanja deck
 CSS done
 scripts for all audio files
 relevant pictures for each word
+key sentences
